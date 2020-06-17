@@ -7,11 +7,6 @@
   - IOS
   
 --------
-using System.Collections;
-using System.Collections.Generic;
-using System.Reflection;
-using UnityEngine;
-
 public class Controller : MonoBehaviour
 {
     private Camera arCamera;
@@ -55,3 +50,11 @@ public class Controller : MonoBehaviour
 
     }
 }
+
+
+
+|제목|주제|
+|---|---|
+|컴포넌트|캄포넌트란?|
+|컴포넌트|캄포넌트란?|
+|컴포넌트|캄포넌트란?|
